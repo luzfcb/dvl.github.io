@@ -1,0 +1,7 @@
+http://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings
+http://code.tutsplus.com/tutorials/essential-sublime-text-2-plugins-and-extensions--net-24173
+http://mikejolley.com/2013/12/8-necessary-sublimetext-plugins/
+http://www.henriquebarroso.com/my-top-10sublime-2-plugins/
+
+http://docutils.sourceforge.net/docs/user/rst/quickref.html
+http://wiki.typo3.org/ReST_Syntax
