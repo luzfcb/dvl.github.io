@@ -25,9 +25,10 @@ Plugins
 * ChangeQuotes
     As vezes acho que tenho TOC, esse plugin substitui aspas simples por duplas
     e vice-versa.
+* Color Highlighter
 * Emmet
 * EncodingHelper
-    Por ser obrigado a lidar com vários scripts feitos por outras pessoas, em 
+    Por ser obrigado a lidar com vários scripts feitos por outras pessoas, em
     diferentes editores e diferentes sistemas operacionais uso esse plugin para
     garantir que o arquivo que estou trabalhando sempre fique com a mesma
     codificação na qual foi salvo originalmente.
@@ -35,6 +36,7 @@ Plugins
     Basicamente funciona como um atalho para os comandos do Git dentro do
     editor, além de permitir que você preencha as mensagens de commit dentro
     de uma janela do próprio Sublime Text.
+* GitGutter
 * Jinja2
     Syntax Highlight para o sistema de template Jinja e que *por um acaso*
     casa perfeitamente bem com o sistema de templates do Django.
@@ -43,16 +45,17 @@ Plugins
     experiencia ao usar Javascript menos desagradavel.
 * LESS
 * `Package Syncing <https://sublime.wbond.net/packages/Package%20Syncing>`_
-    Devo usar uns 3 computadores diferentes (Trabalho, Desktop em dual-boot 
-    e Notebook), e uso o Sublime Text em todos eles, o que torna extremamente 
+    Devo usar uns 3 computadores diferentes (Trabalho, Desktop em dual-boot
+    e Notebook), e uso o Sublime Text em todos eles, o que torna extremamente
     desagradavel manter todas as instações sincronizadas para que eventualmente
-    não sinta falta de alguma função ou outra enquanto uso uma instalação 
+    não sinta falta de alguma função ou outra enquanto uso uma instalação
     diferente.
 
     Esse plugin se baseia no compartilhamente de arquivos do Dropbox (aonde é
     possivel configurar para que se baixe somente uma sub-pasta) e se encarrega
     de replicar todos os plugins e configurações para todas as maquinas que
     você usar.
+* Placeholders
 * SideBarEnhancements
 * SublimeCodeIntel
 * SublimePythonIDE
@@ -108,7 +111,7 @@ Funcionalidades
 
     Selecione várias linhas, aperte CTRL+L e você tera um cursor em cada uma.
 
-    Selecione uma palavra, vá apertando CTRL+D para selecionar a próxima 
+    Selecione uma palavra, vá apertando CTRL+D para selecionar a próxima
     ocorrencia dessa palavra ou use o CTRL+F e o Find all para selecionar todas
     e você tera um cursor em cada uma delas.
 * Mover uma ou várias linhas
@@ -116,7 +119,7 @@ Funcionalidades
     cima e para baixo para movimentar o texto.
 * Copiar/Recortar toda a linha
     Coloque o cursor em alguma linha (até mesmo sem selecionar o texto), aperte
-    CTRL+C ou CTRL+X para colocar toda a linha na area de transferencia, 
+    CTRL+C ou CTRL+X para colocar toda a linha na area de transferencia,
     lembre-se: ao colar o texto será sempre inserido na linha acima do cursor.
 
 
