@@ -121,6 +121,8 @@ Funcionalidades
     Coloque o cursor em alguma linha (até mesmo sem selecionar o texto), aperte
     CTRL+C ou CTRL+X para colocar toda a linha na area de transferencia,
     lembre-se: ao colar o texto será sempre inserido na linha acima do cursor.
+* Incrementar / Decrementar números
+    Selecione um número, segure CTRL e então use as setas para cima e para baixo.
 
 
 =======
