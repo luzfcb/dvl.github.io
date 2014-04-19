@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+        <meta charset="utf-8" />
+        <title>Ingresso.com e como não se armazenar senhas</title>
+        <link rel="stylesheet" href="/theme/css/main.css" />
+
+        <!--[if IE]>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="/">xdvl.info </a></h1>
+                <nav><ul>
+                    <li class="active"><a href="/category/geral.html">Geral</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="/ingressocom-e-como-nao-se-armazenar-senhas.html" rel="bookmark"
+           title="Permalink to Ingresso.com e como não se armazenar senhas">Ingresso.com e como não se armazenar senhas</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2014-04-19T17:33:00">
+                Sáb 19 abril 2014
+        </abbr>
+
+        <address class="vcard author">
+                By <a class="url fn" href="/author/andre-luiz.html">André Luiz</a>
+        </address>
+<p>In <a href="/category/geral.html">Geral</a>. </p>
+<p>tags: <a href="/tag/seguranca.html">seguranca</a></p>
+</footer><!-- /.post-info -->      <p>Geralmente imaginamos que em sites maiores de grande visibilidade são mantidos
+por equipes qualificadas que prezam por boas práticas e segurança, bom não é
+exatamente isso que descobri nos ultimos dias.</p>
+<p>Com o lançamento do ultimo filme do Capitão América resolvi fazer algo que não
+costumo e ir ao cinema assistir, obviamente resolvi comprar o ingresso pela
+internet por ser mais conveniente (o que descobri não fazer diferença pois você
+tem que entrar em outra fila para trocar o ingresso) ao entrar no site do
+Ingresso.com notei que não lembrava minha senha, ao iniciar o que imaginei ser
+o processo de redefinição de senha levei um susto ao ver que a minha senha já
+estava sendo enviada da forma como eu digitei sabe-se lá quando fiz o cadastro.</p>
+<img alt="Obvimente depois de alterar a senha eu pedi novamente que me fosse enviada a senha somente para tirar esse print, e em seguinte pedi que minha conta fosse deletada." class="align-center" src="/img/jesus-christ-how-horrifying.png" />
+<p>Ao ver o e-mail e notar minha senha sendo enviada ali sem qualquer cerimonia na
+hora conclui que eles salvam as senhas dos usuarios em plaintext de forma que
+qualquer um que tenha acesso ao banco de dados <strong>o que aparentemente já
+aconteceu e vários cliente receberam e-mails falsos que continham seus dados
+pessoais</strong>
+<a class="reference external" href="http://tecnoblog.net/152866/ingresso-com-emails-falsos-dados-cadastrais/">[1]</a>
+<a class="reference external" href="http://www.reclameaqui.com.br/8558297/ingresso-com/falha-de-seguranca-da-ingresso-com-tornou-publica-informacoe/">[2]</a></p>
+<p>Acabo de notar que o tecnoblog já citou essa questão das senhas em plaintext,
+então até que eu termine meu levantamento mostrando como o PBKDF2 e bcrypt são
+as melhores formas de se salvar senhas atualmente e que md5 já está ultrapassado
+esse texto fica como rascunho não-publico.</p>
+
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="http://github.com/dvl">GitHub</a></li>
+                            <li><a href="http://twitter.com/xdvl">Twitter</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="http://getpelican.com/">Pelican</a>, which takes great advantage of <a href="http://python.org">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="http://coding.smashingmagazine.com/2009/08/04/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
