@@ -2,12 +2,11 @@ Usando o Sublime Text 3
 #######################
 
 :date: 2014-03-12 12:49
-:tags: sublimetext
+:tags: sublimetext, rascunhos
 :category: Geral
 :slug: usando-o-sublime-text-3
 :author: André Luiz
 :summary: Usando o Sublime Text 3
-:status: draft
 
 
 Creio que venho usando o Sublime Text desde 2011 e hoje posso falar que sou
